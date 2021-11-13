@@ -1,4 +1,4 @@
-# Hola-Mundo
+# Hi World
 Mi primer repositorio de prueba.
 
 Autor: Felipe de Jesus Gonzalez Gonzalez
